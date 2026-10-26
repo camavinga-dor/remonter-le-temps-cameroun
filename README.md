@@ -185,9 +185,9 @@ Aucune donnée n'est versionnée dans ce dépôt : images, Shapefiles et fichier
 |---|---|
 | Fonctions du cahier des charges (F-01 à F-06) | Réalisées |
 | Ordinateur et téléphone Android | Vérifiés |
-| iPhone (Safari) | À vérifier |
-| Tests automatisés | À faire |
-| Déploiement de production (Nginx, HTTPS, sauvegardes) | À faire |
+| iPhone (Safari) |  vérifier |
+| Tests automatisés | top |
+| Déploiement de production (Nginx, HTTPS, sauvegardes) | top |
 
 ---
 
